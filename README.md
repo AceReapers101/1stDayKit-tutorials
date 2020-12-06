@@ -23,4 +23,6 @@ OPTIONAL (If external model is needed)
 ---------------------------------------
 !pip install gdown
 !gdown <gdrive link>
+!cp <filename> <path>
+!rm <filename>
 ```
